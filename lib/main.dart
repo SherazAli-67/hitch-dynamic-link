@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Hitch Player Finder',
+      title: 'Hitch: Play Tennis, Pickleball',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
 
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       ),
       home: const Scaffold(
         body: SafeArea(
-          child: Center(child: Text("Welcome To Hitch - Player Finder", style:  TextStyle(fontSize: 26),),),
+          child: Center(child: Text("Welcome To Hitch: Play Tennis, Pickleball", style:  TextStyle(fontSize: 26),),),
         ),
       )
     );
