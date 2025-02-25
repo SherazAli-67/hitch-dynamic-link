@@ -51555,7 +51555,7 @@ A.AD.prototype={
 f1(a,b){var s=this.a,r=J.bB(s)
 if(b?r.D(s,a):r.u(s,a))this.aD()}}
 A.xD.prototype={
-T(a){return new A.pg(B.CX,"Hitch Player Finder",A.a59(null,A.aaX(B.T,B.Bg),!0),!1,null)}}
+T(a){return new A.pg(B.CX,"Hitch: Play Tennis, Pickleball",A.a59(null,A.aaX(B.T,B.Bg),!0),!1,null)}}
 A.o9.prototype={
 a8(a){var s,r,q=this.x,p=q.i(0,a)
 if(p!=null)return p
@@ -55723,7 +55723,7 @@ B.dR=new A.lK(0,"pop")
 B.cv=new A.lK(1,"doNotPop")
 B.t4=new A.lK(2,"bubble")
 B.He=new A.i(!0,null,null,null,null,null,26,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Je=new A.A7("Welcome To Hitch - Player Finder",null,B.He,null,null)
+B.Je=new A.A7("Welcome To Hitch: Play Tennis, Pickleball",null,B.He,null,null)
 B.vZ=new A.nF(B.bg,null,null,B.Je,null)
 B.CV=new A.zl(!0,B.vZ,null)
 B.CW=new A.zn(null,null)
